@@ -2,11 +2,11 @@
 
 *I research how minerals interact with their environments and with living things.*
 
-**Updated:** December 2, 2024
+**Updated:** January 24, 2025
 
 ---
 
-## Summary
+## Summary  
 
 I am a researcher focused on understanding how minerals interact with their environments and living systems, with an emphasis on using these interactions to address global challenges such as climate change, pollution, and disease. My ongoing work spans experimental design, real-time material characterization, mineral discovery and application, and the functionalization of minerals. By developing novel nano-crystalline Earth materials, I aim to create innovative solutions for a range of demanding applications.
 
@@ -86,7 +86,7 @@ In addition to my research, I hold adjunct faculty positions at the University o
 
 - **Technical Editor** for the American Mineralogist (2021 - 2024)
 - **New Mineral Names Editor** for the American Mineralogist (2021 - 2024)
-- **Mineralogical Society of America Liaison** to the American Crystallographic Association (2018 - present)
+- **Mineralogical Society of America Liaison** to the American Crystallographic Association (2018 - 2024)
 - **Topical Session Organizer & Co-Chair** (2022) Diagenesis and Subsurface Habitable Environments. AbSciCon, American Geophysical Union
 - **NASA Science Review Panelist** (2019, 2020)
 - **Associate Editor** for the American Mineralogist (2008 – 2019)
@@ -194,13 +194,11 @@ Raman microscope, Powder X-ray diffractometer (PXRD), X-ray fluorescence microsc
 
 ### In Preparation or Submitted
 
-1. **Celestian, A. J.**, Bourcier, W., Camire, C., Kumar, J., Paranthaman, P. (in review) Local structural changes and cation migration in lamba-MnO₂ during H and Li cycling from brine fluids. *Journal of Raman Spectroscopy.*
+1. **Celestian, A. J.**, et. al. (in prep) Mangeli phase distributions on Earth. *ACS Earth and Planetary Sciences.*
 
-2. **Celestian, A. J.**, et. al. (in prep) Mangeli phase distributions on Earth. *ACS Earth and Planetary Sciences.*
+2. **Celestian, A. J.**, Wu, W., Kubicki, J., Perl, S. (in prep) Crystallization processes of magnesium sulfate heptahydrate epsomite. *American Mineralogist.*
 
-3. **Celestian, A. J.**, Wu, W., Kubicki, J., Perl, S. (in prep) Crystallization processes of magnesium sulfate heptahydrate epsomite. *Journal of Raman Spectroscopy.*
-
-4. **Perl, S.M.**, Celestian, A. J., Cockell, C.S., Seuylemezian, A., Baxter, B.K., Corsetti, F.A. (In prep) Permian evaporitic preservation from the Zechstein formation. *Astrobiology.*
+3. **Perl, S.M.**, Celestian, A. J., Cockell, C.S., Seuylemezian, A., Baxter, B.K., Corsetti, F.A. (In prep) Permian evaporitic preservation from the Zechstein formation. *Astrobiology.*
 
 5. **Rasmussen, K. L.**, Thieringer, P. H., Nevadomski, S., Martinez, A. M., Dawson, K. S., Corsetti, F. A., Zheng, X-Y., Lv, Y., Chen, X., Celestian, A. J., Berelson, W. M., Rollins, N. E., Spear, J. R. (in review) Living to Lithified: Construction and Preservation of Silicified Biomarkers.
 
@@ -208,45 +206,61 @@ Raman microscope, Powder X-ray diffractometer (PXRD), X-ray fluorescence microsc
 
 ### Accepted or Published
 
-1. **Yager, J. A.**, West, A. J., Trower, E. J., Fischer, W. W., Ritterbush, K., Rosas, S., Bottjer, D. J., Celestian, A. J., Berelson, W. M., Corsetti, F. A. (2024) Low and dynamic dissolved silica in mid-Mesozoic oceans. *GRL.*
+1. **Grant, K.**, Brodrick, P.G., García-Pando, C.P., Ageitos, M.G., Celestian, A.J., (2025) Mapping quartz and feldspar areal abundance and grain sizes using integrated VTIR data. *Authorea Preprints.*
 
-2. **Mousavi, A.**, Nazarian, R., Schmidt, W.C., Thaker, K., Prieto, J., Wong, G.C.L., Celestian, A., Chen, Q., Li, J., Scotland, K.B. (2024) Exploring bacterial roles in calcium oxalate stone formation through high-resolution imaging. *The Journal of Urology* 211(5S):1294. DOI: 10.1097/01.JU.0001009384.23104.ca.06
+2. **Celestian, A. J.** (2025) RamanLab: A Comprehensive Cross-Platform Software Suite for Advanced Raman Spectroscopy Analysis. *Authorea Preprints.*
 
-3. **Nazarian, R.**, Lin, N., Celestian, A., Gelb, J., O'Toole, G., Wong, G., Scotland, K.B. (2024) Bacteria trigger calcium oxalate crystal formation. *The Journal of Urology* 211(5S):1036. DOI: 10.1097/01.JU.0001009436.52988.91.13
+3. **Cassady, V.C.**, Petryshyn, V.A., Bernhard, J.M., Celestian, A.J., Berelson, W.M., Corsetti, F.A. (2025) Exploring Mechanisms of Microbialite Texture Formation through mapping in situ CaCO₃ precipitation and Microbial Cell Position. *Goldschmidt 2025 Conference.*
 
-4. **Lively, J.**, Celestian, A. J. (2024) In situ potassium and hydrogen ion exchange into a cubic zirconium cyclosilicate microporous material. *PLoS ONE*, 19(3), e0298661.
+4. **Mousavi, A.**, Schmidt, W.C., Li, J., Yang, R., Gonzalez-Marin, G., Wong, G.C.L., ... (2025) MP21-12 BIOFILM-FORMING BACTERIA FOUND WITHIN CALCIUM-BASED KIDNEY STONES. *The Journal of Urology* 213 (5S), e709.
 
-5. **Celestian, A. J.** (2023) New Mineral Names: Heavy Metal and Minerals from China. *American Mineralogist.*
+5. **Lamm, S.N.**, Sheppard, R.Y., Yanchilina, A., Marshall, C.P., Celestian, A.J., ... (2025) Machine Learning Strategies to Distinguish Iron Sulfide, Oxide, and (Oxy) hydroxide Minerals Using Raman and LIBS Spectroscopy. *LPI Contributions* 3090, 2702.
 
-6. **Paradis, O. P.**, Corsetti, F. A., Bardsley, A., Hammond, D. E., Berelson, W., Xu, X., Walker, J., Celestian, A. J. (2024) Radiocarbon Chronology/Growth Rates of Ooids from Great Salt Lake, Utah. *Great Salt Lake & the Bonneville Basin: Geologic History & Anthropocene Issues.* Utah Geological Association.
+6. **Plattner, T.A.**, Schmidt, B.E., Fernandez, N., Jamison, H., Russo, K., Weber, J.M., ... (2025) Evidence for Acidic Bleaching and Dominant Groundwater Processes in Endmember Hypersaline and Acidic Lakes in Western Australia. *LPI Contributions* 3090, 2811.
 
-7. **Francis, C. A.**, Celestian, A. J. (2023) Elbaite from the Cruzeiro pegmatites, Minas Gerais, Brazil at the Natural History Museum of Los Angeles County. *Rocks & Minerals.*
+7. **Yager, J.A.**, West, A.J., Trower, E.J., Fischer, W.W., Ritterbush, K., Rosas, S., ... (2025) Evidence for Low Dissolved Silica in mid-Mesozoic Oceans. *American Journal of Science* 325, 1-3.
 
-8. **Javier, B.M.**, Perl, S.M., Basu, C., Fischer, W., Celestian, A. J. (2023) Detection and preservation of extremophile biosignatures in lithium-bearing evaporites for life detection. *LPI Contributions*, 2806, 2825.
+8. **Celestian, A. J.**, Bourcier, W., Camiré, C., Kumar, J., Paranthaman, P. (2025) Mechanism of Lithium Ion Exchange Into Spinel Manganese Oxide. *Journal of Raman Spectroscopy.* https://doi.org/10.1002/jrs.70013
 
-9. **Celestian, A. J.** (2023) New Mineral Names. *American Mineralogist.*
+9. **Yager, J. A.**, West, A. J., Trower, E. J., Fischer, W. W., Ritterbush, K., Rosas, S., Bottjer, D. J., Celestian, A. J., Berelson, W. M., Corsetti, F. A. (2024) Low and dynamic dissolved silica in mid-Mesozoic oceans. *GRL.*
 
-10. **Perl, S. M.**, Celestian, A. J., Cockell, C. S., Corsetti, F. A., Basu, C., Nisson, D. M., Garner, M., Valera, J., Javier, B. M. (2023) Microbial pigment robustness in Martian and Ocean Worlds brines and evaporites. *LPI Contributions*, 2806, 2434.
+10. **Mousavi, A.**, Nazarian, R., Schmidt, W.C., Thaker, K., Prieto, J., Wong, G.C.L., Celestian, A., Chen, Q., Li, J., Scotland, K.B. (2024) Exploring bacterial roles in calcium oxalate stone formation through high-resolution imaging. *The Journal of Urology* 211(5S):1294. DOI: 10.1097/01.JU.0001009384.23104.ca.06
 
-11. **Celestian, A. J.** (2023) Rare Earth: Crystalline Treasures - Exhibition at the Santa Barbara Museum of Natural History. *Rocks & Minerals* 98 (2), 148-159.
+11. **Nazarian, R.**, Lin, N., Celestian, A., Gelb, J., O'Toole, G., Wong, G., Scotland, K.B. (2024) Bacteria trigger calcium oxalate crystal formation. *The Journal of Urology* 211(5S):1036. DOI: 10.1097/01.JU.0001009436.52988.91.13
 
-12. **Celestian, A. J.** (2023) New Mineral Names: Arsenic and Lead. *American Mineralogist* 108 (3), 634-636.
+12. **Lively, J.**, Celestian, A. J. (2024) In situ potassium and hydrogen ion exchange into a cubic zirconium cyclosilicate microporous material. *PLoS ONE*, 19(3), e0298661.
 
-13. **Cooperdock, E. H. G.**, Hofmann, F., Tibbetts, R. M. C., Carrera, A., Takase, A., Celestian, A. J. (2022) Technical note: Rapid phase identification of apatite and zircon grains for geochronology using X-ray micro-computed tomography. *Geochronology*, 4, 501-515. https://doi.org/10.5194/gchron-4-501-2022 Open Access.
+13. **Celestian, A. J.** (2023) New Mineral Names: Heavy Metal and Minerals from China. *American Mineralogist.*
 
-14. **Celestian, A. J.** (2022) New Mineral Names: Hydrous Minerals. *American Mineralogist*, 107 (8) 2022, 1656-1658. https://doi.org/10.2138/am-2022-NMN107813
+14. **Paradis, O. P.**, Corsetti, F. A., Bardsley, A., Hammond, D. E., Berelson, W., Xu, X., Walker, J., Celestian, A. J. (2024) Radiocarbon Chronology/Growth Rates of Ooids from Great Salt Lake, Utah. *Great Salt Lake & the Bonneville Basin: Geologic History & Anthropocene Issues.* Utah Geological Association.
 
-15. **Wilmeth, D. T.**, Lalonde, S.V., Berelson, W.M., Petryshyn, V., Celestian, A.J., Beukes, N.J., Awramik, S.M., Spear, J.R., Mahseredjian, T., Corsetti, F.A. (2022) Evidence for benthic oxygen production in Neoarchean lacustrine stromatolites. *Geology*, May 9, 2022 https://doi.org/10.1130/G49894.1
+15. **Francis, C. A.**, Celestian, A. J. (2023) Elbaite from the Cruzeiro pegmatites, Minas Gerais, Brazil at the Natural History Museum of Los Angeles County. *Rocks & Minerals.*
 
-16. **Kampf, A. R.**, Mills, S. J., Celestian, A. J., Ma, C., Yang, H., Thorne, B. (2022) Flaggite, Pb₄Cu²⁺₄Te⁶⁺₂(SO₄)₂O₁₁(OH)₂(H₂O), a new mineral with stair-step-like HCP layers from Tombstone, Arizona, USA, *Mineralogical Magazine.* https://doi.org/10.1180/mgm.2022.37
+16. **Javier, B.M.**, Perl, S.M., Basu, C., Fischer, W., Celestian, A. J. (2023) Detection and preservation of extremophile biosignatures in lithium-bearing evaporites for life detection. *LPI Contributions*, 2806, 2825.
 
-17. **Celestian, A. J.** (2022) New Mineral Names: High-Pressure and Precious Minerals. *American Mineralogist*, 107 (4), 778–780. https://doi.org/10.2138/am-2022-NMN107411Open Access.
+17. **Celestian, A. J.** (2023) New Mineral Names. *American Mineralogist.*
 
-18. **Celestian, A. J.** (2022) Report to AstraZeneca.
+18. **Perl, S. M.**, Celestian, A. J., Cockell, C. S., Corsetti, F. A., Basu, C., Nisson, D. M., Garner, M., Valera, J., Javier, B. M. (2023) Microbial pigment robustness in Martian and Ocean Worlds brines and evaporites. *LPI Contributions*, 2806, 2434.
 
-19. **Celestian, A. J.** (2022) New Mineral Names: Alteration Products. *American Mineralogist*, 107(2), 318-320. https://doi.org/10.2138/am-2022-NMN107228 Open Access.
+19. **Celestian, A. J.** (2023) Rare Earth: Crystalline Treasures - Exhibition at the Santa Barbara Museum of Natural History. *Rocks & Minerals* 98 (2), 148-159.
 
-20. **Celestian, A. J.** (2021) Report to AstraZeneca.
+20. **Celestian, A. J.** (2023) New Mineral Names: Arsenic and Lead. *American Mineralogist* 108 (3), 634-636.
+
+21. **Cooperdock, E. H. G.**, Hofmann, F., Tibbetts, R. M. C., Carrera, A., Takase, A., Celestian, A. J. (2022) Technical note: Rapid phase identification of apatite and zircon grains for geochronology using X-ray micro-computed tomography. *Geochronology*, 4, 501-515. https://doi.org/10.5194/gchron-4-501-2022 Open Access.
+
+22. **Celestian, A. J.** (2022) New Mineral Names: Hydrous Minerals. *American Mineralogist*, 107 (8) 2022, 1656-1658. https://doi.org/10.2138/am-2022-NMN107813
+
+23. **Wilmeth, D. T.**, Lalonde, S.V., Berelson, W.M., Petryshyn, V., Celestian, A.J., Beukes, N.J., Awramik, S.M., Spear, J.R., Mahseredjian, T., Corsetti, F.A. (2022) Evidence for benthic oxygen production in Neoarchean lacustrine stromatolites. *Geology*, May 9, 2022 https://doi.org/10.1130/G49894.1
+
+24. **Kampf, A. R.**, Mills, S. J., Celestian, A. J., Ma, C., Yang, H., Thorne, B. (2022) Flaggite, Pb₄Cu²⁺₄Te⁶⁺₂(SO₄)₂O₁₁(OH)₂(H₂O), a new mineral with stair-step-like HCP layers from Tombstone, Arizona, USA, *Mineralogical Magazine.* https://doi.org/10.1180/mgm.2022.37
+
+25. **Celestian, A. J.** (2022) New Mineral Names: High-Pressure and Precious Minerals. *American Mineralogist*, 107 (4), 778–780. https://doi.org/10.2138/am-2022-NMN107411Open Access.
+
+26. **Celestian, A. J.** (2022) Report to AstraZeneca.
+
+27. **Celestian, A. J.** (2022) New Mineral Names: Alteration Products. *American Mineralogist*, 107(2), 318-320. https://doi.org/10.2138/am-2022-NMN107228 Open Access.
+
+28. **Celestian, A. J.** (2021) Report to AstraZeneca.
 
 [*Additional publications continue... truncated for length*]
 
@@ -257,7 +271,6 @@ Raman microscope, Powder X-ray diffractometer (PXRD), X-ray fluorescence microsc
 ### Authored Online Media
 
 - **Pocketful of Xtals**, Substack. Blog and Podcast
-- **@NHMLA_GEMS**, Instagram
 
 ### Movie, TV, Radio, and Social
 
@@ -274,22 +287,21 @@ Raman microscope, Powder X-ray diffractometer (PXRD), X-ray fluorescence microsc
 - NPR TakeTwo
 
 #### Print
+- *Eos (AGU Earth and Space Science News)*: When Disaster Science Strikes Close to Home - Featured scientist analyzing ash samples from 2025 California wildfires
 - *New York Times*: Parenting Section - The Trouble With Amber Teething Necklaces
 - *National Geographic* - Rarest Form of Gold
 - *Reuters*: Mystery black diamonds call 'The Enigma' goes up for auction (also on BBC, NASDAQ, Livemint, yahoo, Taipei Times, and others)
 - *Prospering Backyards* Cover Story
 - *LA Times Plants*
 
-#### Podcast
-- Union of Concerned Scientists
-- If Jewels Could Talk
-
 ---
 
 ## Invited Talks
 
+### 2025
+Colorado School of Mines, Texas Tech University, New Mexico Institute of Mining and Technology, Southern Illinois University, Adventures Club, Daisy Mountain Gem and Mineral Society
 ### 2024
-University of Indiana at Indianapolis, University of Indiana at Bloomington, Southern Illinois University, Adventures Club, Daisy Mountain Gem and Mineral Society
+Indiana University-Purdue University Indianapolis (IUPUI), Indiana University Bloomington, Northern Illinois University
 
 ### 2023
 Gemological Institute of America, Banner Medical Group, Daisy Mountain Gem and Mineral Society, Friends of Quinn-Emanuel-Urquhart & Sullivan LLP
@@ -336,7 +348,7 @@ California State University Northridge
 
 - Mel Nyguen (2024 - present)
 - Justine Grabiec (2023 - present)
-- Ryley Collins (2020 - present)
+- Ryley Collins (2020 - 2024)
 - Naomi Rodgers (2019 - 2024)
 - Kilian Ashly (2021 - present)
 - Tori Cassady (2023 - present)
