@@ -1,4 +1,3 @@
-# CV Aaron J. Celestian, Ph.D.
 
 *I research how minerals interact with their environments and with living things.*
 
