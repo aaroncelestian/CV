@@ -2,7 +2,7 @@
 
 *I research how minerals interact with their environments and with living things.*
 
-**Updated:** January 24, 2025
+**Updated:** September 24, 2025
 
 ---
 
